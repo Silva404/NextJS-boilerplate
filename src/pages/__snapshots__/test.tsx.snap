@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`main should render the heading 1`] = `
+.c0 {
+  background: #000;
+}
+
+<div
+  class="c0"
+>
+  <h1>
+    Primeiro teste
+  </h1>
+</div>
+`

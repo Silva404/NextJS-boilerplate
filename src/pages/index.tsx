@@ -1,3 +1,9 @@
+import * as S from './styles'
+
 export default function Home() {
-  return <h1>Hi</h1>;
+  return (
+    <S.Wrapper>
+      <h1>Primeiro teste</h1>
+    </S.Wrapper>
+  )
 }
