@@ -1,0 +1,10 @@
+{
+  "name": "PWA App",
+  "short_name": "App",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "description": "NextJS boilerplate, Typescript, Testing-library, Storybook, Styled Components, PWA",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
